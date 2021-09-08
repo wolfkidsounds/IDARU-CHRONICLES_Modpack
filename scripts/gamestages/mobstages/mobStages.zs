@@ -4,11 +4,12 @@ print("Init: 'mobStages.zs'");
 mods.MobStages.addStage("atum", "atum:brigand");
 mods.MobStages.addStage("atum", "atum:nomad");
 mods.MobStages.addStage("atum", "atum:barbarian");
-mods.MobStages.addStage("atum", "atum:assasin");
+mods.MobStages.addStage("atum", "atum:assassin");
 mods.MobStages.addStage("atum", "atum:mummy");
 
 mods.MobStages.addStage("atum", "atum:camel");
 mods.MobStages.addStage("atum", "atum:desert_wolf");
+mods.MobStages.addStage("atum", "atum:desert_rabbit");
 
 //MINECRAFT
 mods.MobStages.addStage("minecraft", "minecraft:zombie");
