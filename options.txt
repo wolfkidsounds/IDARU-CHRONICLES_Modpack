@@ -103,18 +103,19 @@ key_key.betterfoliage.gui:66
 key_roots.keybinds.pouch:0
 key_roots.keybinds.quiver:0
 key_roots.keybinds.spell_slot_previous:0
-key_roots.keybinds.spell_slot_4:0
+key_roots.keybinds.spell_slot_next:0
 key_roots.keybinds.spell_slot_3:0
+key_roots.keybinds.spell_slot_5:0
+key_roots.keybinds.spell_slot_4:0
 key_roots.keybinds.spell_slot_2:0
 key_roots.keybinds.spell_slot_1:0
-key_roots.keybinds.spell_slot_next:0
-key_roots.keybinds.spell_slot_5:0
 key_Scene1 start/pause:79
 key_Scene2 start/pause:80
 key_Scene3 start/pause:81
 key_Scene reset:82
 key_Quest Log:38
 key_key.ftbquests.quests:0
+key_smoothfont.key.guiOpen:199
 key_key.jei.toggleOverlay:24:CONTROL
 key_key.jei.focusSearch:33:CONTROL
 key_key.jei.toggleCheatMode:0
@@ -145,11 +146,6 @@ key_key.craftingtweaks.decompressStack:0
 key_key.craftingtweaks.decompressAll:0
 key_key.craftingtweaks.refill_last:15
 key_key.craftingtweaks.refill_last_stack:15
-key_key.radial_menu:0
-key_key.use_ring:19
-key_key.use_secondary_ring:0
-key_key.open_pouch:34
-key_key.connect_caving_rope:47
 key_waila.keybind.wailaconfig:82
 key_waila.keybind.wailadisplay:79
 key_waila.keybind.liquid:80
@@ -166,16 +162,16 @@ key_Open Matter Scanner GUI:0
 key_Android Ability key:45
 key_Android Switch Ability key:19
 soundCategory_master:1.0
-soundCategory_music:1.0
+soundCategory_music:0.70422536
 soundCategory_record:1.0
 soundCategory_weather:1.0
-soundCategory_block:1.0
-soundCategory_hostile:1.0
-soundCategory_neutral:1.0
+soundCategory_block:0.57746476
+soundCategory_hostile:0.75352114
+soundCategory_neutral:0.73239434
 soundCategory_player:1.0
-soundCategory_ambient:1.0
+soundCategory_ambient:0.8380282
 soundCategory_voice:1.0
-soundCategory_ds_footsteps:1.0
+soundCategory_ds_footsteps:0.2535211
 soundCategory_ds_biome:1.0
 modelPart_cape:true
 modelPart_jacket:true
